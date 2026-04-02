@@ -107,3 +107,4 @@ Figure 3: TLS filter in Wireshark showing a Client Hello packet and the Server N
 ## Related Projects
 
 - [Security Monitoring Dashboard Using Splunk](https://github.com/justinray72/Security-Monitoring-Dashboard-Using-Splunk)
+- [IT Help Desk Lab Using osTicket](https://github.com/justinray72/IT-Help-Desk-Lab)
